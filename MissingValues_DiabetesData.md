@@ -251,27 +251,27 @@ Age is \#2 with r = 0.35 to classVar
 
 Density distribution plots, segmented by classVar
 
-![](MissingValues_DiabetesData_files/figure-markdown_github/unnamed-chunk-8-1.png)![](MissingValues_DiabetesData_files/figure-markdown_github/unnamed-chunk-8-2.png)![](MissingValues_DiabetesData_files/figure-markdown_github/unnamed-chunk-8-3.png)![](MissingValues_DiabetesData_files/figure-markdown_github/unnamed-chunk-8-4.png)![](MissingValues_DiabetesData_files/figure-markdown_github/unnamed-chunk-8-5.png)
+![](unnamed-chunk-8-1.png)![](unnamed-chunk-8-2.png)![](unnamed-chunk-8-3.png)![](unnamed-chunk-8-4.png)![](unnamed-chunk-8-5.png)
 
     ## Warning: Removed 11 rows containing non-finite values (stat_density).
 
-![](MissingValues_DiabetesData_files/figure-markdown_github/unnamed-chunk-8-6.png)![](MissingValues_DiabetesData_files/figure-markdown_github/unnamed-chunk-8-7.png)![](MissingValues_DiabetesData_files/figure-markdown_github/unnamed-chunk-8-8.png)
+![](unnamed-chunk-8-6.png)![](unnamed-chunk-8-7.png)![](unnamed-chunk-8-8.png)
 
 Density plot of classVar
 
-![](MissingValues_DiabetesData_files/figure-markdown_github/unnamed-chunk-9-1.png)
+![](unnamed-chunk-9-1.png)
 
 Histogram of timesPreg
 
-![](MissingValues_DiabetesData_files/figure-markdown_github/unnamed-chunk-10-1.png)
+![](unnamed-chunk-10-1.png)
 
 Futher examining the cor identified in the above section, using the pimaSub1 data
 
-![](MissingValues_DiabetesData_files/figure-markdown_github/unnamed-chunk-11-1.png)![](MissingValues_DiabetesData_files/figure-markdown_github/unnamed-chunk-11-2.png)![](MissingValues_DiabetesData_files/figure-markdown_github/unnamed-chunk-11-3.png)![](MissingValues_DiabetesData_files/figure-markdown_github/unnamed-chunk-11-4.png)
+![](unnamed-chunk-11-1.png)![](unnamed-chunk-11-2.png)![](unnamed-chunk-11-3.png)![](unnamed-chunk-11-4.png)
 
 Visualizing the relationship of other pimaSub1 variables to classVar
 
-![](MissingValues_DiabetesData_files/figure-markdown_github/unnamed-chunk-12-1.png)![](MissingValues_DiabetesData_files/figure-markdown_github/unnamed-chunk-12-2.png)![](MissingValues_DiabetesData_files/figure-markdown_github/unnamed-chunk-12-3.png)
+![](unnamed-chunk-12-1.png)![](unnamed-chunk-12-2.png)![](unnamed-chunk-12-3.png)
 
 ### Cleaning the Data
 
@@ -603,7 +603,7 @@ print(pI1fit$bestTune)
     ##   parameter
     ## 1      none
 
-![](MissingValues_DiabetesData_files/figure-markdown_github/unnamed-chunk-31-1.png)
+![](unnamed-chunk-31-1.png)
 
 #### Build a c5.0 classification model
 
@@ -768,7 +768,7 @@ print(pI3fit$bestTune)
     ##   mtry
     ## 2    3
 
-![](MissingValues_DiabetesData_files/figure-markdown_github/unnamed-chunk-38-1.png)
+![](unnamed-chunk-38-1.png)
 
 ### Save the optimized classification model parameters to txt or csv files
 
@@ -951,4 +951,4 @@ signif. codes: a &lt; 0.001, b &lt; 0.01, c &lt; 0.05
 
 #### Important GLM model variables
 
-![](MissingValues_DiabetesData_files/figure-markdown_github/unnamed-chunk-47-1.png)
+![](unnamed-chunk-47-1.png)
