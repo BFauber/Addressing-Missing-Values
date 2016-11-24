@@ -935,7 +935,7 @@ write.csv(pIAllStatsS, file="~/Desktop/PimaIndianDiabetesData/output/pIModelsAll
 
 #### GLM model coefficients
 
-| Parameter    | Estimate | Std. Error | z-value | Pr(&gt;                 |
+| Parameter    | Estimate | Std. Error | z-value | P-value                 |
 |--------------|----------|------------|---------|-------------------------|
 | (Intercept)  | -9.70080 | 0.98962    | -9.803  | &lt; 2e-16 <sup>a</sup> |
 | timesPreg    | 0.13573  | 0.03964    | 3.424   | 0.000618 <sup>a</sup>   |
