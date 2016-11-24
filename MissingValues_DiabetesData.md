@@ -15,7 +15,7 @@ The Pima Indians Diabetes data set is a publicly available data set from the Uni
 
 Several college upper-level statistics courses make use of this data set to teach modeling approaches, and the data set also is a topic of frequent discussion on the data science website <A HREF="https://www.kaggle.com/uciml/pima-indians-diabetes-database">Kaggle</A>.
 
-Rather than borrowing from the existing code and kernels on Kaggle, I chose to build my R script from scratch, showcasing my approach in addressing with the missing data values (&gt;50% incomplete rows) and constructing robust models.
+Rather than borrowing from the existing code and kernels on Kaggle, I chose to build my R script from scratch, showcasing my approach in addressing with the missing data values (&gt;50% incomplete rows), specifically, I chose to utilize a multiple imputation technique to facitiate the construction of the machine learning models.
 
 ##### Data Set Information
 
