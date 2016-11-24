@@ -6,4 +6,4 @@ Utilized the <A HREF="https://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabe
 
 ### Code
 
-<A HREF="MissingValues_DiabetesData.md">Click here</A> to see the R markdown file and plots.
+<A HREF="MissingValues_DiabetesData.md">Click here</A> to see the R code and plots in the markdown file.
